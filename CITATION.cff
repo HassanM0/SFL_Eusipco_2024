@@ -1,10 +1,10 @@
 cff-version: 1.1.0
 message: "If you use this code, please cite it as below."
 authors:
-  - family-names: MOHAMAD
+  - family-names: Mohamad
     given-names: Hassan
 title: "Strategic Federated Learning"
-version: 1.0.0
+version:
 doi: 10.5281/zenodo.12207165
 date-released: 2024-06-21
 url: "https://github.com/HassanM0/SFL_Eusipco_2024"
