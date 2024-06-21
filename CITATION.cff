@@ -9,11 +9,11 @@ authors:
     family-names: Mohamad
     email: hassanmohamad241@gmail.com
     affiliation: CRAN
-    orcid: ''
+    orcid: 'https://orcid.org/0009-0009-8838-243X'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.12207165
-repository-code: 'https://github.com/HassanM0/SFL_Eusipco_2024'
+repository-code: 'https://github.com/HassanM0/SFL.git'
 keywords:
   - Federated Learning
   - Game theory
